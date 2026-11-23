@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BitField/BitField.vcxproj" />
+  <Project Path="Set/Set.vcxproj" />
+  <Project Path="Tests/Tests.vcxproj" />
+</Solution>
